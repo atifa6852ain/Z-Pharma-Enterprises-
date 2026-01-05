@@ -1,8 +1,9 @@
 {
   "name": "Z-Pharma Enterprises",
   "short_name": "Z-Pharma",
-  "description": "Z-Pharma Enterprises PWA",
-  "start_url": "/",
+  "description": "Z-Pharma Enterprises official progressive web application.",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d47a1",
